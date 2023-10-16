@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "thunk",
+      "status": false
+    },
+    {
+      "title": "new todo",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "delete",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "delete",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "add todo",
+      "status": true,
+      "id": 5
+    }
+  ]
+}

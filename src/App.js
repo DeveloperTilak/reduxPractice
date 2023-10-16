@@ -1,15 +1,15 @@
-import React from "react";
-import Todo from "./Components/Todo";
-import TodoItem from "./Components/TodoItem";
-import Counter from "./Components/Counter";
+import React from 'react';
+import TodoInput from './Components/TodoInput';
+import TodoList from './Components/TodoList';
 
 const App = () => {
   return (
     <div>
-       <Todo />
-       <TodoItem />
+      <h2>TODO</h2>
 
-       <Counter />
+      <TodoInput />
+      <br/>
+      <TodoList />
     </div>
   );
 };
